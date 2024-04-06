@@ -27,6 +27,7 @@ If you want to run BBAI:
 - python cln.py
 - python rndAttack.py
 - python test_dice.py
+- python HA.py
 
 If you want to set abversarial defense enviroment, you can change hyperparameters "defense" and "dp":
 - nodefense with defense='nodefense' and dp=False
